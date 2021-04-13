@@ -1,7 +1,4 @@
-# Pemrograman-Java
-Pemrograman Java
-
-## Essential Java Programming For Basic Data Analysis
+# Pemrograman Java
 
 ### Table of Contents
 
